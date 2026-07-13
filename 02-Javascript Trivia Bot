@@ -1,0 +1,22 @@
+console.log("Hello! I'm your coding fun fact guide!")
+
+let botName="Ish";
+let botLocation="Earth";
+let favoriteLanguage="javaScript";
+console.log("My name is "+ botName + " and I live on " + botLocation + ".");
+
+console.log("My favorite programming language is " + favoriteLanguage + ".");
+
+let codingFact="I suddenly started playing with " + favoriteLanguage + " when i was bored and immediately fell in love .";
+
+console.log(codingFact);
+
+codingFact="It wasn't sudden, actually " + favoriteLanguage + " came when I needed it the most.";
+
+console.log(codingFact);
+
+codingFact="Ok, I give up, I lied. " + favoriteLanguage + " was holding me at gunpoint to say those lines.";
+
+console.log(codingFact);
+
+console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
